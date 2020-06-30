@@ -10,3 +10,7 @@ Liam Neeson is an Irish actor from Northern Ireland who rose to prominence with 
 
 > Denk immer daran, Deine Wahrnehmung bestimmt Deine Realität.  
 > (Liam Neeson - Film: Star Wars Episode I - Die dunkle Bedrohung)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Liam_Neeson_Deauville_2012.jpg"/>
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.	
+Attribution: Georges Biard
