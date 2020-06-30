@@ -7,3 +7,6 @@ Liam Neeson is an Irish actor from Northern Ireland who rose to prominence with 
 * irish
 * boxer
 * US citizen
+
+> Denk immer daran, Deine Wahrnehmung bestimmt Deine Realität.  
+> (Liam Neeson - Film: Star Wars Episode I - Die dunkle Bedrohung)
