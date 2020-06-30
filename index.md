@@ -1,2 +1,9 @@
 # Website of my favourite actor - Liam Neeson
 Liam Neeson is an Irish actor from Northern Ireland who rose to prominence with his acclaimed starring role in Steven Spielberg's 1993 Oscar winner Schindler's List. He has since starred in a number of other successful films, including Star Wars: Episode I – The Phantom Menace, Taken, Michael Collins, Les Misérables, Batman Begins, Kinsey, Clash of the Titans, and The Chronicles of Narnia series. He has been nominated for a number of awards including an Academy Award for Best Actor, a BAFTA Award for Best Actor in a Leading Role and three Golden Globe Awards for Best Actor in a Motion Picture Drama.
+
+## Character Traits
+
+* tall man
+* irish
+* boxer
+* US citizen
